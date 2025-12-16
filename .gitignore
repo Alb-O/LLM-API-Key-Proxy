@@ -130,3 +130,5 @@ cache/
 *.env
 
 oauth_creds/
+
+/.direnv

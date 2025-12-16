@@ -2253,3 +2253,11 @@ def run_credential_tool(from_launcher=False):
     except KeyboardInterrupt:
         console.print("\n[bold yellow]Exiting setup.[/bold yellow]")
         clear_screen()  # Clear terminal on keyboard interrupt too
+
+
+if __name__ == "__main__":
+    run_credential_tool(from_launcher=False)
+
+
+if __name__ == "__main__":
+    run_credential_tool(from_launcher=False)
